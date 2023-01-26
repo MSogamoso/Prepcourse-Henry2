@@ -1,1 +1,1 @@
-este proyecto es una prueba de como crear y clonar un repositorio a mi escritorio
+este proyecto es una prueba de como crear y clonar un repositorio a mi escritorio local
